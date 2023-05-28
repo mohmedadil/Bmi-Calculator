@@ -1,0 +1,4 @@
+*.C++ linguist-detectable=false
+*.cmake linguist-detectable=false
+*.c linguist-detectable=false
+*.html linguist-detectable=false
